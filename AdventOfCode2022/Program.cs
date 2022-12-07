@@ -1,4 +1,4 @@
-﻿using AdventOfCode2022.Day5;
+﻿using AdventOfCode2022.Day6;
 const string fileName = "input.txt";
-using Stream input = File.Open(@$"{nameof(Day5)}\{fileName}", FileMode.Open);
-Console.WriteLine(await Day5.Solve(input));
+using Stream input = File.Open(@$"{nameof(Day6)}\{fileName}", FileMode.Open);
+Console.WriteLine(await Day6.Solve(input));
