@@ -2,7 +2,7 @@
 
 namespace AdventOfCode2022.Day8;
 
-internal class Day8
+internal class Day08
 {
     public static async Task<string> Solve(Stream stream)
     {

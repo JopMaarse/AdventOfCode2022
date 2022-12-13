@@ -1,6 +1,6 @@
 ﻿namespace AdventOfCode2022.Day5;
 
-internal class Day5
+internal class Day05
 {
     private readonly record struct Operation(int number, int from, int to);
 

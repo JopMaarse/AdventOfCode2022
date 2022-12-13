@@ -2,7 +2,7 @@
 
 namespace AdventOfCode2022.Day6;
 
-internal class Day6
+internal class Day06
 {
     //part 1: markerLength = 4
     private const int markerLength = 14;
